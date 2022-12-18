@@ -3,4 +3,4 @@ spec:
     server: https://kubernetes.default.svc
   source:
     repoURL: https://github.com/atishayshukla/argotest.git
-    targetRevision: main
+    targetRevision: HEAD
